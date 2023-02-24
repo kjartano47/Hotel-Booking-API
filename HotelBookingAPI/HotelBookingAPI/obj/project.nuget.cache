@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6WNah8kt4Zlf3CgZXySK3hCemEE37OdaUbADhJJTukBTa2sY78uz9wvDhUtAAicYbATQQal+u7whrpcgVdnf5g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Notandi\\Documents\\GitHub\\Hotel-Booking-API\\HotelBookingAPI\\HotelBookingAPI\\HotelBookingAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
